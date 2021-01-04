@@ -57,4 +57,5 @@ ytick.minor.width: .5
 xtick.major.pad: 7
 ytick.major.pad: 7
 hist.linewidth: 1
+hist.edgecolor: white
 
