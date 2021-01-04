@@ -1,7 +1,6 @@
 ## Credits for this style go to the ggplot and seaborn packages. I copied the style file to remove dependencies on the Seaborn package. Check it out, it's an awesome library for plotting!
 
 patch.facecolor: 348ABD  # blue
-patch.linewidth=2
 patch.edgecolor: EEEEEE
 patch.antialiased: True
 
@@ -46,7 +45,7 @@ legend.fontsize: 10
 
 grid.linewidth: 1
 lines.linewidth: 1.75
-patch.linewidth: .3
+patch.linewidth: 1
 lines.markersize: 7
 lines.markeredgewidth: 0
 
