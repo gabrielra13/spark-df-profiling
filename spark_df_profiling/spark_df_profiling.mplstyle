@@ -56,5 +56,5 @@ ytick.minor.width: .5
 
 xtick.major.pad: 7
 ytick.major.pad: 7
-axes.bar.linewidth: 1
+hist.linewidth: 1
 
